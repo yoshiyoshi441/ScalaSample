@@ -5,7 +5,7 @@ version := "1.0"
 
 scalaVersion := "2.11.7"
 
-// resolvers += "Twitter" at "http://maven.twttr.com"
+resolvers += "twitter-repo" at "https://maven.twttr.com"
 
 // finagle & thrift
 libraryDependencies ++= Seq(
