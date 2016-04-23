@@ -1,8 +1,8 @@
 package com.github.yoshiyoshi441
 
-import org.scalatest.FunSuite
-import org.junit.Assert._
 import org.hamcrest.CoreMatchers._
+import org.junit.Assert._
+import org.scalatest.FunSuite
 
 /**
   * PersonTest
